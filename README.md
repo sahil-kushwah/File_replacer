@@ -1,5 +1,5 @@
 # File_replacer
-It replaces files while downloading, works with arp_apoofer
+It replaces files while downloading, use it with arp-spoofer to perform mitm attacks.
 
 Usage: file_interceptor.py [options]
 
