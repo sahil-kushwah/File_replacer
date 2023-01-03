@@ -1,7 +1,7 @@
 # File_replacer
 It replaces files while downloading, use it with arp-spoofer to perform mitm attacks.
 
-Set iptables and linux ip forwardng rules before using code_injector:
+Set iptables and linux ip forwardng rules before using file_replacer:
 
 
 To set linux ip forwarding to true:
